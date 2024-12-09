@@ -27,6 +27,9 @@ kubectl apply -f deploy.yaml
 ## Part 2：Istio 配置
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/5b105398-2a93-4a40-81ba-7037e72feb73">
 
+## Part 3：App 配置
+<img width="827" alt="image" src="https://github.com/user-attachments/assets/4396f31d-00ff-44ff-b9df-891ed32ae6ed">
+
 ## 參考
 - 東西向 Istio: `https://www.soulchild.cn/post/2660/`
 - 南北向 Nginx Ingress Controller: `https://blog.csdn.net/shelutai/article/details/123904190`
